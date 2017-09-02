@@ -1,2 +1,3 @@
 ### Java-projects
-#### basic stand-alone projects
+#### Each branch is a seperate small stand-alone projects
+#### Basic calculator structure:
